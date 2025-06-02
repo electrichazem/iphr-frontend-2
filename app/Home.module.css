@@ -1,0 +1,28 @@
+.hero {
+    background-image: url('../public/hero.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.counterParent {
+    display: flex;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 40px;
+    justify-content: space-between;
+    align-items: center;
+    background: #39383C;
+    background: linear-gradient(0deg, rgba(57, 56, 60, 1) 0%, rgba(16, 15, 26, 1) 100%);
+}
+
+ .separator {
+    padding: .5px;
+    height: 100px;
+    background: #ffffff;
+    margin: 0 20px;
+    
+}
+
